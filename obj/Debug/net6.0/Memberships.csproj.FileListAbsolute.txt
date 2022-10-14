@@ -1,0 +1,15 @@
+C:\Users\PGillock\Desktop\NeDL\Memberships\bin\Debug\net6.0\Memberships.exe
+C:\Users\PGillock\Desktop\NeDL\Memberships\bin\Debug\net6.0\Memberships.deps.json
+C:\Users\PGillock\Desktop\NeDL\Memberships\bin\Debug\net6.0\Memberships.runtimeconfig.json
+C:\Users\PGillock\Desktop\NeDL\Memberships\bin\Debug\net6.0\Memberships.dll
+C:\Users\PGillock\Desktop\NeDL\Memberships\bin\Debug\net6.0\ref\Memberships.dll
+C:\Users\PGillock\Desktop\NeDL\Memberships\bin\Debug\net6.0\Memberships.pdb
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\Memberships.csproj.AssemblyReference.cache
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\Memberships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\Memberships.AssemblyInfoInputs.cache
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\Memberships.AssemblyInfo.cs
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\Memberships.csproj.CoreCompileInputs.cache
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\Memberships.dll
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\ref\Memberships.dll
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\Memberships.pdb
+C:\Users\PGillock\Desktop\NeDL\Memberships\obj\Debug\net6.0\Memberships.genruntimeconfig.cache
